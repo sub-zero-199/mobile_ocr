@@ -1,0 +1,19 @@
+[project]
+name = "yolo_pipeline"
+version = "0.1.0"
+dependencies = [
+    "mlflow>=3.4.0",
+    "mlserver>=1.7.1",
+    "mlserver-mlflow>=1.7.1",
+    "pandas>=2.3.3",
+    "protobuf>=6.32.1",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+    "ultralytics>=8.3.205",
+    "watchdog>=6.0.0",
+]
+
+[tool.uv.workspace]
+members = [
+    "shubh_god",
+]

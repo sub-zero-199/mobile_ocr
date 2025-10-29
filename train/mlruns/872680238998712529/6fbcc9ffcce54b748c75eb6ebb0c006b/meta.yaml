@@ -1,0 +1,14 @@
+artifact_uri: file:///home/testing/mobile_ocr/train/mlruns/872680238998712529/6fbcc9ffcce54b748c75eb6ebb0c006b/artifacts
+end_time: 1760008477301
+entry_point_name: ''
+experiment_id: '872680238998712529'
+lifecycle_stage: active
+run_id: 6fbcc9ffcce54b748c75eb6ebb0c006b
+run_name: valuable-turtle-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760008475611
+status: 3
+tags: []
+user_id: testing

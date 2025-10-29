@@ -1,0 +1,14 @@
+artifact_uri: file:///home/testing/mobile_ocr/train/mlruns/913833070842297534/c19c4fdfc7d84d869d0ae5c353a1e1a1/artifacts
+end_time: 1760093553918
+entry_point_name: ''
+experiment_id: '913833070842297534'
+lifecycle_stage: active
+run_id: c19c4fdfc7d84d869d0ae5c353a1e1a1
+run_name: m100_16v11m_v1_Training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760073115107
+status: 3
+tags: []
+user_id: testing

@@ -1,0 +1,10 @@
+artifact_location: file:///home/testing/mobile_ocr/train/mlruns/872680238998712529/models/m-b3d62b5339e642b291bc6ede575f4e86/artifacts
+creation_timestamp: 1760064941035
+experiment_id: '872680238998712529'
+last_updated_timestamp: 1760064942752
+model_id: m-b3d62b5339e642b291bc6ede575f4e86
+model_type: null
+name: model
+source_run_id: 1604c7f28bdb48ea8f1c360eb8409943
+status: 2
+status_message: null

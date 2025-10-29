@@ -1,0 +1,14 @@
+artifact_uri: file:///home/testing/mobile_ocr/train/mlruns/913833070842297534/16435bb80e5144cf9e2e6c1ccf6ae59a/artifacts
+end_time: 1760010029057
+entry_point_name: ''
+experiment_id: '913833070842297534'
+lifecycle_stage: active
+run_id: 16435bb80e5144cf9e2e6c1ccf6ae59a
+run_name: m50_16v11m_v2_Finetune
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760009789142
+status: 3
+tags: []
+user_id: testing
