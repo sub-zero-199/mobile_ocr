@@ -1,6 +1,0 @@
-artifact_location: file:///home/testing/mobile_ocr/train/mlruns/913833070842297534
-creation_time: 1759996943269
-experiment_id: '913833070842297534'
-last_update_time: 1759996943269
-lifecycle_stage: active
-name: YOLOv11m_Training
